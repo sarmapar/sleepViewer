@@ -1,1 +1,5 @@
-Terms of service here
+Only sleep data will be collected.
+Data will be used to show summary statistics of your own sleep and will not be stored or shared.
+You make opt-out of our use of data by not connecting your fitbit account or revoking access at anytime, however this means you will only have access to the example data and not your individual sleep data.
+Data is not stored and therefore cannot be deleted, as there is nothing to delete.
+After you disable your account or revoke access, your data will not be collected or displayed.
